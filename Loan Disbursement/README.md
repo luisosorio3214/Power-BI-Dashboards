@@ -32,6 +32,7 @@
       <li>Power BI Modeling (Relationship/Measure)</li>
       <li>Power BI Reports (Charts/Visualizations)</li>
       <li>Power BI Services (Deployment)</li>
+    </ol>
   </P>
 
       
