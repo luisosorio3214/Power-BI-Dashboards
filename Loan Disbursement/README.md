@@ -20,6 +20,7 @@
          sum(principal_amount_outstanding_eur). 
       </li>
       <li>Please add filters to breakdown by branch_key, product, and loan_officer. </li>
+    </ol>
   </P>
 
   <h3>Development Steps:</h3>
