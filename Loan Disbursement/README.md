@@ -40,7 +40,7 @@
 </P>
 
 <P>
-  <h2 align="center">DashBoard that I created:</h2>
+  <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
     <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Loan%20Disbursement/index.html">Loan Disbursement Interactive Dashboard Link</a>
   </P>
