@@ -15,7 +15,7 @@
       <li>What is the total revenue they generate from the individual category and sub-category.</li>
       <li>Price of the products having high demand category wise in market.</li>
       <li>Top discount price, profitable price of every product.</li>
-      <li>What are the top and low-rated products, so we can see what needs to improve to increase the market’s profit</li>
+      <li>What are the top and low-rated products, so we can see what needs to improve to increase the market’s profit.</li>
     </ol>
   </p>
 </P>
