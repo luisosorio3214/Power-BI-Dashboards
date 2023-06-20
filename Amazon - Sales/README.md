@@ -22,8 +22,8 @@
 
 <p>
   <h2 align="center">Dashboard I created:</h2>
-  <p>
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Amazon%20-%20Sales/">Amazon Interactive Dashboard</a>
+  <p align="center">
+    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Amazon%20-%20Sales/">Amazon Interactive Dashboard Link</a>
   </p>
   <P>
     <img src="Amazon - Dashboard Images/Amazon - Dashboard-1.png">
