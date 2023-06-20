@@ -1,5 +1,5 @@
 <h1 align="center">Data Professionals</h1>
-<h2 align="center">Client Brief - Dashboarb</h2>
+<h2 align="center">Client Brief - Dashboard</h2>
 
 <P>
   <h3>Data Set Info:</h3>
