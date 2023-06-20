@@ -24,7 +24,7 @@
 <P>
   <h2 align="center">DashBoard that I created:</h2>
   <P align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Data%20Careers%20-%20Survey%20Dashboard/index.html">HR Analytics Interactive Dashboard Link</a>
+    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Human%20Resources/">HR Analytics Interactive Dashboard Link</a>
   </P>
   <img src="HR ANALYTIC DASHBOARD Images/HR ANALYTIC DASHBOARD-1.png">
 </P>
