@@ -24,7 +24,7 @@
 <P>
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Data%20Careers%20-%20Survey%20Dashboard/index.html">Luis' Health Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/reportEmbed?reportId=10975ebb-185b-465c-b3fd-4649cf4d84cf&autoAuth=true&ctid=d175679b-acd3-4644-be82-af041982977a">Luis' Health Interactive Dashboard Link</a>
   </P>
   <img src="Luis' Health - Dashboard Images/Luis' Health - Dashboard-1.png">
 </P>
