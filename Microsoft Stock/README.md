@@ -26,7 +26,7 @@
 <P>
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
-    <a href="https://app.powerbi.com/reportEmbed?reportId=a0eb680b-37b6-42cd-9e13-16c08cf1a52b&autoAuth=true&ctid=d175679b-acd3-4644-be82-af041982977a">
+    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Microsoft%20Stock/index.html">
       Microsft Stock Interactive Dashboard Link
     </a>
   </P>
