@@ -15,7 +15,7 @@
   <h3>Client Dashboard Requirements:</h3>
   <P>
      <p>
-      <h3>Dashboard 1 - Order activity:</h3>
+      <h3>Dashboard 1 - Orders Activity:</h3>
       For this activity, we will need a dashboard with the following data:
       <ol>
         <li>Total Orders</li>
@@ -48,13 +48,14 @@
       </ol>
   
      </p>    
-  </P>
+   </P>
   
   <h3>Data Queries for Dashboard: </h3>
   <p>
-    Since our data base schema contains multiple tables and contains a lot data, to make our business intellgence tool the most efficient will used MYSQL to query the data we will need only for the dashboards. You can find the Queries for all three dashboards at this <a href="Dashboard - Queries.sql">link.</a>
+    Since our data base schema contains multiple tables and contains a lot data, to make our business intellgence tool the most efficient will used MYSQL to query the data we     will need only for the dashboards. You can find the Queries for all three dashboards at this <a href="Dashboard - Queries.sql">link.</a>
   </p>
 </P>
+
 
 
 <P>
