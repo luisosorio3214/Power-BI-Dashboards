@@ -60,9 +60,11 @@
 <P>
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
-    <a href="https://app.powerbi.com/reportEmbed?reportId=a0eb680b-37b6-42cd-9e13-16c08cf1a52b&autoAuth=true&ctid=d175679b-acd3-4644-be82-af041982977a">
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiM2JjNGU2MDYtMmQ1MC00YTI3LTk2M2QtZjJjYmE0NDU5ODA1IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
       Ben's Pizzeria Interactive Dashboard Link
     </a>
   </P>
-  <img src="Microsoft - Dashboard Images/Microsoft - Dashboard-1.png">
+  <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-2.png">
+  <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-3.png">
+  <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-4.png">
 </P>
