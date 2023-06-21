@@ -9,6 +9,7 @@
     from Yahoo Finance at this <a href="https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall">link.</a>
 
    <p align="center">
+     <h3> Data Model: </h3>
      <img src="Microsoft - Dashboard Images/data_model.PNG">
    </p>
   </P>
