@@ -48,13 +48,14 @@
     </ol>
 
    </p>    
-  </P>
+
   
   <h3>Data Queries for Dashboard: </h3>
   <p>
     Since our data base schema contains multiple tables and contains a lot data, to make our business intellgence tool the most efficient will used MYSQL to query the data we     will need only for the dashboards. You can find the Queries for all three dashboards at this <a href="Dashboard - Queries.sql">link.</a>
   </p>
-</P>
+  
+  </p>
 
 
 
