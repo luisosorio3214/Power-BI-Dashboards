@@ -15,7 +15,7 @@
   <h3>Client Dashboard Requirements:</h3>
   <P>
      <p>
-      <h3>Dashboard 1 - Order activity: </h3>
+      <h3>Dashboard 1 - Order activity:</h3>
       For this activity, we will need a dashboard with the following data:
       <ol>
         <li>Total Orders</li>
@@ -29,7 +29,7 @@
         <li>Orders By Delivery/Pick Up</li>
       </ol>
   
-       <h3>Dashboard 2 - Inventory Management: </h3>
+      <h3>Dashboard 2 - Inventory Management:</h3>
       This will be a lot more complicated than the orders. Mainly because we need to calculate how much inventory we’re using and then identify inventory that needs                 reordering. We also want to calculate how much each pizza costs to make based on the cost of the ingredients so we can keep an eye on pricing and P/L. 
       <ol>
         <li>Total Quantity By Ingredients</li>
@@ -38,7 +38,7 @@
         <li>Percentage Stock Remaining By Ingredient</li>
       </ol>
  
-        <h3>Dashboard 3 - Staff: </h3>
+      <h3>Dashboard 3 - Staff:</h3>
       By far the simplest part of the requirements, we want to be able to monitor who was working on any given day or shift and what our overall staff costs are.
       <ol>
         <li>Total Staff Cost</li>
