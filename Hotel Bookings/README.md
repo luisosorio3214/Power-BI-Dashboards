@@ -4,7 +4,7 @@
 <P>
   <h3>Data Set Info:</h3>
   <P>
-    This dataset contains information on hotel bookings from 2018 to 2020.The file also contains tables involving meals and market segment. The file can be downloaded at this <a 
+    This dataset contains information on hotel bookings from 2018 to 2020. The file also contains tables involving meals and market segment. The file can be downloaded at this <a 
     href="https://docs.google.com/spreadsheets/d/1yrwJ4wvBDi4A5A4_tcASn9xT3BRvhNZv/edit?usp=sharing&ouid=100743082681367568996&rtpof=true&sd=true">link.</a>
   </P>
 
