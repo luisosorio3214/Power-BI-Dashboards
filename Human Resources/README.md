@@ -24,7 +24,9 @@
 <P>
   <h2 align="center">DashBoard that I created:</h2>
   <P align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Human%20Resources/">HR Analytics Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMDZmZDlmYWUtNWRmYi00Y2Q1LWI3MGEtNjEyZmI0ZjMwYWE3IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
+      HR Analytics Interactive Dashboard Link
+    </a>
   </P>
   <img src="HR ANALYTIC DASHBOARD Images/HR ANALYTIC DASHBOARD-1.png">
 </P>
