@@ -3,13 +3,15 @@ This Repository contains dashboard projects using Micorsoft Power Business Intel
 
 <h2>Overview:</h2>
 <p>
-  Every project contains a file that contains a list of requirements/goals wanted by the particular client for the desired dashboard. In some projects since the data set was 
-  large, for best practices and efficiency for our power BI tool, I used Structured Query Language(SQL) to retrieve only the data needed for the particular dashboard. Once the 
-  data was uploaded onto the business intellgence tool, I then modeled the data creating new tables and establishing relationships among them. Once determining the fact table, 
-  I created dimension tables linking them back to the main table to make the modeling more intuitive. For example, if the fact table had a date column, I will create a new 
-  table emphasizing on the date using the date as a primary key and creating new columns providing more information on the calender. When creating dashboards, we will have to 
-  keep in mind about the amount of data being used since it can potentially slow down refresh rates and we also have to keep in mind the data model being used since it will affect the outcome of 
-  our visualizations. A bad data model makes it harder to create stunning visualizations!
+  Every project contains a file that contains a list of requirements/goals wanted by the particular client for the desired dashboard. In 
+  some projects since the data set was large, for best practices and efficiency for our power BI tool, I used Structured Query 
+  Language(SQL) to retrieve only the data needed for the particular dashboard. Once the data was uploaded onto the business intellgence 
+  tool, I then modeled the data creating new tables and establishing relationships among them. Once determining the fact table, I created 
+  dimension tables linking them back to the main table to make the modeling more intuitive. For example, if the fact table had a date 
+  column, I will create a new table emphasizing on the date using the date as a primary key and creating new columns providing more 
+  information on the calender. When creating dashboards, we will have to keep in mind about the amount of data being used since it can 
+  potentially slow down refresh rates and we also have to keep in mind the data model being used since it will affect the outcome of our 
+  visualizations. A bad data model makes it harder to create stunning visualizations!
 </p>
 
 <h3 align="center">Examples of some of the Dashboards Created:</h3>
