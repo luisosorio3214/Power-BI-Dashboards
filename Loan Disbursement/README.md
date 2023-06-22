@@ -42,7 +42,9 @@
 <P>
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Loan%20Disbursement/index.html">Loan Disbursement Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiNmY3MWY1ZjAtZjI1MC00YjllLWJhYjctYmZjN2MwZWU0NDI2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
+      Loan Disbursement Interactive Dashboard Link
+    </a>
   </P>
   <img src="Loan - Dashboard Images/Loan - Dashboard-1.png">
   <img src="Loan - Dashboard Images/Loan - Dashboard-2.png">
