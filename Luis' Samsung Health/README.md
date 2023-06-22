@@ -24,7 +24,9 @@
 <P>
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
-    <a href="https://app.powerbi.com/reportEmbed?reportId=10975ebb-185b-465c-b3fd-4649cf4d84cf&autoAuth=true&ctid=d175679b-acd3-4644-be82-af041982977a">Luis' Health Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiNTAyMzM5MTYtNmMzNC00NmMzLWJhZWMtNGM5NTI0NjU4MzlmIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
+      Luis' Health Interactive Dashboard Link
+    </a>
   </P>
   <img src="Luis' Health - Dashboard Images/Luis' Health - Dashboard-1.png">
 </P>
