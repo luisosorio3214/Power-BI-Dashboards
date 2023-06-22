@@ -26,7 +26,9 @@
 <P>
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Data%20Careers%20-%20Survey%20Dashboard/index.html">Data Professional Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiNzYxNzQ0MDItNWEwMy00YjZhLWFkNzQtMThlMzUzOTA2NDRjIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">Data 
+      Professional Interactive Dashboard Link
+    </a>
   </P>
   <img src="Data Professional Survey - Dashboard Images/Data Professional Survey - Dashboard-1.png">
 </P>
