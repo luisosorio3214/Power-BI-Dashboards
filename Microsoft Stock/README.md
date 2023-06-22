@@ -5,8 +5,8 @@
   <h3>Data Set Info:</h3>
   <P>
     This dataset contains Microsoft stock information between 2018 to early 2023. I then created an additional table containing information about events related or had the 
-    potential to influence the stock price of Microsoft. You can see the following data model I created for the partcular dashboard. The Stock information was downloaded at 
-    from Yahoo Finance at this <a href="https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall">link.</a>
+    potential to influence the stock price of Microsoft. You can see the following data model I created for the partcular dashboard. The Stock information was downloaded from 
+    Yahoo Finance at this <a href="https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall">link.</a>
 
    <p align="center">
      <h3> Data Model: </h3>
