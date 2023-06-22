@@ -1,5 +1,5 @@
 # Power-BI-Dashboards
-This Repository contains dashboard projects using Micorsoft Power Business Intellgence tool. 
+This Repository contains dashboard projects using Microsoft Power Business Intellgence tool. 
 
 <h2>Overview:</h2>
 <p>
