@@ -21,7 +21,10 @@
 <P>
   <h2 align="center">Dashboard I created:</h2>
   <P align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Failed%20Banks/index.html">Failed Bank List Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/view? 
+       r=eyJrIjoiZTM4MTIwOTMtYTYwZC00NzZiLWI1N2UtZTA3N2FkMDgzMDEwIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
+      Failed Bank List Interactive Dashboard Link
+    </a>
   </P>
   <img src="Bank Summary - Dashboard Images/Bank Summary - Dashboard-1.png">
   <img src="Bank Summary - Dashboard Images/Bank Summary - Dashboard-3.png">
