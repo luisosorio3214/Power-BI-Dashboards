@@ -23,7 +23,8 @@
 <p>
   <h2 align="center">Dashboard I created:</h2>
   <p align="center">
-    <a href="https://luisosorio3214.github.io/Power-BI-Dashboards/Amazon%20-%20Sales/">Amazon Interactive Dashboard Link</a>
+    <a href="https://app.powerbi.com/view? 
+          r=eyJrIjoiMzQxODI4MTAtNGU5Zi00MmNhLWEzNmUtYjNkYTFmMDAyMTc0IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">Amazon Interactive Dashboard Link</a>
   </p>
   <P>
     <img src="Amazon - Dashboard Images/Amazon - Dashboard-1.png">
