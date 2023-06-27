@@ -2,7 +2,7 @@
 <h2 align="center">Business Intelligence – Project</h2>
 
 <p align="center">
-  <img src="SuperHeros - Dashboard Images/mdc.jpg">
+  <img src="SuperHeros - Dashboard Images/mdc.jpg" height = 700 width = 400>
 </p>
 
 <p>
@@ -43,7 +43,7 @@
   <h2 align="center">Dashboard that I created:</h2>
   <P align="center">
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ2MGQ1YWUtYzJlNi00MTBhLWJkMjEtNmNiYzI2OGMzNjgyIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
-      Marvel Vs DC Interactive Dashboard Link
+      Marvel VS DC Interactive Dashboard Link
     </a>
   </P>
   <img src="SuperHeros - Dashboard Images/SuperHeros - Dashboard-1.png">
