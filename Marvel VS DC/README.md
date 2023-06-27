@@ -2,7 +2,7 @@
 <h2 align="center">Business Intelligence – Project</h2>
 
 <p align="center">
-  <img src="SuperHeros - Dashboard Images/mdc.jpg" height = 700 width = 400>
+  <img src="SuperHeros - Dashboard Images/mdc.jpg" height = 500 >
 </p>
 
 <p>
